@@ -7,10 +7,10 @@ import lejos.hardware.sensor.I2CSensor;
  * The module needs to be wired like this
  * EV3 Sensor Port: (S1 - S4)
  *
- * Blue Wire 	  = SDA
- * Yellow Wire 	= SCL
- * Red Wire		  = GND
- * Green Wire  	= VDD
+ * Blue Wire    = SDA
+ * Yellow Wire  = SCL
+ * Red Wire     = GND
+ * Green Wire   = VDD
  *
  * You can scale the voltage between 0V and 5V in 4096 Steps.
  *

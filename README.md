@@ -6,10 +6,10 @@ This is a java implementation to control an [Adafruit MCP475](https://github.com
 
 You need to connect the DAC like this to an EV3 sensor port:
 
-Blue Wire    = SDA
-Yellow Wire  = SCL
-Red Wire     = GND
-Green Wire   = VDD
+Blue Wire    = SDA  
+Yellow Wire  = SCL  
+Red Wire     = GND  
+Green Wire   = VDD  
 
 ## Example
 
