@@ -1,16 +1,15 @@
-# Adafruit MCP4725 leJOS Implmentation
+# Adafruit MCP4725 leJOS implementation
 
-This is a java implementation to control an [Adafruit MCP475](https://github.com/adafruit/Adafruit_MCP4725) from an LEGO EV3 sensor port, running
-[leJOS](http://www.lejos.org/)
+This is a java implementation to control an [Adafruit MCP475](https://github.com/adafruit/Adafruit_MCP4725) from an LEGO EV3 sensor port running [leJOS](http://www.lejos.org/).
 
 ## Wiring
 
 You need to connect the DAC like this to an EV3 sensor port:
 
-Blue Wire 	  = SDA
-Yellow Wire 	= SCL
-Red Wire		  = GND
-Green Wire  	= VDD
+Blue Wire    = SDA
+Yellow Wire  = SCL
+Red Wire     = GND
+Green Wire   = VDD
 
 ## Example
 
